@@ -1,5 +1,6 @@
 .DS_Store
 .env.development.local
+.env.local
 .env.production.local
 .env.test.local
 .envrc
@@ -7,6 +8,7 @@
 .history
 .idea
 .vercel
+.vscode
 .yarn
 *.log
 *.tgz
@@ -25,4 +27,3 @@ dev-dist
 html
 meta*.json
 .claude
-config.bat
